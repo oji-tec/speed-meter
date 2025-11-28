@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+lang: en
+---
+
 # Privacy Policy
 
 **Last Updated: November 28, 2025**
